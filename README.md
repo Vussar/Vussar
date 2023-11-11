@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, Welcome to My GitHub Profile! 👋
 
-<!--
-**Vussar/Vussar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vussar, and I'm here to share my code and ideas with the community. 🚀
 
-Here are some ideas to get you started:
+## About Me
+I am a developer with an interest in Coding. My projects span across C#, C++, VB .NET, Python, JavaScript, Lua, Web, and I'm always open to new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+1. **-** - Soon...
+
+## Currently Learning
+- Rust - learning.
+- Java - learning.
+
+## Connect with Me
+- Telegram: [[click]](https://t.me/Vussar)
+- Telegram Channel: [[click]](https://t.me/Vussar_Developer)
+
+## My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vussar&show_icons=true&theme=transparent)
+
+## How to Reach Me
+If you have any questions, suggestions, or just want to chat, feel free to reach out to me at [@Vussar](https://t.me/Vussar).
