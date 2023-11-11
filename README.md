@@ -1,4 +1,4 @@
-[![Header](https://github.com/Vussar/Vussar/blob/main/image.png)]
+![Header](https://github.com/Vussar/Vussar/blob/main/image.png)
 
 # Hello, Welcome to My GitHub Profile! 👋
 
