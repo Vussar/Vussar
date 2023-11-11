@@ -1,3 +1,5 @@
+[![Header](https://github.com/Vussar/Vussar/blob/main/image.png)]
+
 # Hello, Welcome to My GitHub Profile! 👋
 
 I'm Vussar, and I'm here to share my code and ideas with the community. 🚀
