@@ -1,7 +1,3 @@
-# Hello, Welcome to My GitHub Profile!
-
-I'm Vussar, and I'm here to share my code and ideas with the community.
-
 ## About Me
 I am a developer with an interest in Coding. My projects span across C#, C++, VB .NET, Python, JavaScript, Lua, Web, and I'm always open to new challenges.
 
