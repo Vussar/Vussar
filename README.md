@@ -13,8 +13,8 @@ I am a developer with an interest in Coding. My projects span across C#, C++, VB
 - Java - learning.
 
 ## Connect with Me
-- Telegram: [[click]](https://t.me/Vussar)
-- Telegram Channel: [[click]](https://t.me/Vussar_Developer)
+- Telegram: [click](https://t.me/Vussar)
+- Telegram Channel: [click](https://t.me/Vussar_Developer)
 
 ## My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vussar&show_icons=true&theme=transparent)
