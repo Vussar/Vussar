@@ -15,8 +15,6 @@ I am a developer. C#, C++, VB .NET, Python, JavaScript, Lua, Web. 💻
 [<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width='40' height='40' />](https://www.php.net/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' width='40' height='40' />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png]' width='40' height='40' />](https://www.lua.org/)
-[<img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/80px-VB.NET_Logo.svg.png]' width='40' height='40' />](https://learn.microsoft.com/ru-ru/dotnet/visual-basic/)
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' width='40' height='40' />
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
 </div>
